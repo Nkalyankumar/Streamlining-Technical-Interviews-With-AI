@@ -7,13 +7,13 @@ Revolutionizing the interviewing process across various domains, including recru
 
 # Technologies and Tools Utilized
 
-Backend: Flask
-Frontend: Routes
-Multi-Modal Data Conversion: FFMPEG
-Data Analysis Dashboards: Plotly
-Database: SQLite3
-ML Model Training: TensorFlow, Keras, Scikit-learn
-Programming Languages Used: Python, JavaScript, SQL
+- Backend: Flask
+- Frontend: Routes
+- Multi-Modal Data Conversion: FFMPEG
+- Data Analysis Dashboards: Plotly
+- Database: SQLite3
+- ML Model Training: TensorFlow, Keras, Scikit-learn
+- Programming Languages Used: Python, JavaScript, SQL
 
 # Datasets Used 
 
