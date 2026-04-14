@@ -4,7 +4,10 @@
 
 # Goal Of Team
 Revolutionizing the interviewing process across various domains, including recruitment, paving the way for more insightful and meaningful interactions in the digital age.
-
+# Team
+Poojitha N
+Shyam Sundhar G
+Kalyan Kumar N
 # Product Demo
 # Technologies and Tools Utilized
 
